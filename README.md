@@ -1,5 +1,6 @@
 # RGBtoGRAY
-Convert RGB image into GRAY
+Convert RGB image into GRAY<br>
+You can convert by simply subtract 255 with array values of the image
 
 ## Original image
 ![image](https://user-images.githubusercontent.com/116956973/201177326-ad583fbe-bd51-4756-a062-949f3fadc426.png)
